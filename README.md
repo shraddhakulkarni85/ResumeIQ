@@ -215,7 +215,7 @@ Replace this placeholder with your final ResumeIQ dashboard screenshot:
 From the project directory:
 
 ```powershell
-Set-Location "C:\Users\91845\Desktop\TalentRank-Studio-AI-Resume-Screening-main"
+Set-Location "C:\Users\91845\Desktop\ResumeIQ"
 
 .\.venv\Scripts\Activate.ps1
 
